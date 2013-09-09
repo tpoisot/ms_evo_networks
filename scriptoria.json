@@ -1,0 +1,21 @@
+{
+   "type":"ms",
+   "title":"An integrative approach to the evolutionary dynamics of species-interaction networks",
+   "status":"prep",
+   "authors":[
+   {
+      "first.name":"Timothée",
+      "last.name":"Poisot",
+      "email":"timothee_poisot@uqar.ca",
+      "ORCID":"0000-0002-0735-5184"
+   },
+   {
+      "first.name": "Kévin",
+      "last.name":"Cazelles"
+   },
+   {
+      "first.name":"Dominique",
+      "last.name":"Gravel"
+   }
+   ]
+}
