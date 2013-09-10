@@ -6,12 +6,12 @@
 
 Arguably the biggest challenge faced by community ecologists is to understand,
 and predict, how ecosystem properties will change in the face of
-large-scale disturbance events. Ecosytsems functions emerge from the
+large-scale disturbance events. Ecosystems functions emerge from the
 identity of local species, and the way they interact, in a given
 environmental context. Species range shift, micro-evolutionary
 changes, and rapid environmental variation, is therefore expected to
 disrupt the current state of communities, and thus change the way
-ecosystems function. Although hyptheses have been generated, and data
+ecosystems function. Although hypotheses have been generated, and data
 gathered, regarding the relationship between community structure and
 ecosystem properties, it is not clear whether they are sufficient to
 *predict*  the outcome of large-scale changes. The core issue lies in
@@ -27,7 +27,7 @@ interaction networks, or establishing different interactions within
 them. Finally, **(iii)**, the environmental conditions themselves will
 change, affecting the traits, abundances, and presence of different
 species. Because all of these mechanisms are interwoven in feedbacks,
-the way we approach them should incorportate concepts and elements
+the way we approach them should incorporate concepts and elements
 from separate bodies of work, and focus on understanding which are
 well-articulated, and which are not.
 
