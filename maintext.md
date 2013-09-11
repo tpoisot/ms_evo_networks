@@ -6,7 +6,7 @@
 
 Arguably the biggest challenge faced by community ecologists is to understand,
 and predict, how ecosystem properties will change in the face of
-large-scale disturbance events. Ecosystems functions emerge from the
+large-scale disturbance events. Ecosystems functions emerge from both the
 identity of local species, and the way they interact, in a given
 environmental context. Species range shift, micro-evolutionary
 changes, and rapid environmental variation, is therefore expected to
