@@ -36,6 +36,11 @@ well-articulated, and which are not.
 3. Accounting for micro-evolutionary changes is important to predict response to global changes as well
 4. The establishment of interactions relies on traits (mis)matching, so the consequences of biogeo/evo changes must be done in a trait-explicit framework
 
+**Put forth a strong trait-based perspective**: env -> traits <-> coevo
+
+**Box:**: venn diagram   
+**Box:** case studies (if any)
+
 # The state of the art
 
 In this part, we showcase the elements of network theory, biogeography, and
@@ -47,11 +52,19 @@ the integration, not how we will integrate them
 
 ## Network theory:
 
+Dom
+
 Constraints on species presence / absence, species dynamics, involve functional traits
+
+Jenn / Memmott : robustness, species extinction cascades, pressure to select the more robust network (indirectly) -- the probability of extinction of one species varies with the risk of extinction of other species below it
 
 ## Biogeography:
 
+D.J. Kev'
+
 large scale variations, species presence f(environment), predicts community composition, spatial heterogeneity, consequences for species evolution (at the single species scale)
+
+evolutionary/historical biogeography: Dom will do a synthesis of the TREE paper
 
 ## Coevolution: 
 
@@ -69,12 +82,26 @@ DG/KC -- TTIB, beta
 
 ## The ugly: evolution of networks, evolution in networks
 
-TP -- Loeuille, web world
+TP -- Loeuille, web world, Cattin, Allesina
 
 # The road to synthesis
 
 ## Scaling-up coevolutionary concepts
 
+limitation as a micro-evo perspective
+
 ## Scaling-down the species interaction network paradigm
 
+interactions are complex probabilistic proccesses
+
 # Perspectives
+
+How do we switch from no network (autotrophs) to a network (heterotrophy): important qualitative change, intermediate steps?
+
+Discuss the relevance of fundamental/realized versus Grinnell/Elton niches (ugly Ecol Lett figure)
+
+Traits are the future, all hail the traits
+
+No grand theory of everything
+
+new family of questions vs. re-visiting standing questions
