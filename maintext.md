@@ -6,8 +6,8 @@
 
 Arguably the biggest challenge faced by community ecologists is to understand,
 and predict, how ecosystem properties will change in the face of
-large-scale disturbance events. Ecosystems functions emerge from both the
-identity of local species, and the way they interact, in a given
+large-scale disturbance events. Ecosystems functions emerge from both
+the identity of local species, and the way they interact, in a given
 environmental context. Species range shift, micro-evolutionary
 changes, and rapid environmental variation, is therefore expected to
 disrupt the current state of communities, and thus change the way
@@ -27,8 +27,8 @@ interaction networks, or establishing different interactions within
 them. Finally, **(iii)**, the environmental conditions themselves will
 change, affecting the traits, abundances, and presence of different
 species. Because all of these mechanisms are interwoven in feedbacks,
-the way we approach them should incorporate concepts and elements
-from separate bodies of work, and focus on understanding which are
+the way we approach them should incorporate concepts and elements from
+separate bodies of work, and focus on understanding which are
 well-articulated, and which are not.
 
 1. Literature on species interactions at the community level neglected variation in either species, or the way they interact
@@ -38,19 +38,38 @@ well-articulated, and which are not.
 
 # The state of the art
 
+In this part, we showcase the elements of network theory, biogeography, and
+coevolution studies that are necesary to achieve an integration between the
+three fields. 
+
+**we don't discuss the overlap yet**: think of this as the basic ingredients of
+the integration, not how we will integrate them
+
 ## Network theory:
+
+Constraints on species presence / absence, species dynamics, involve functional traits
 
 ## Biogeography:
 
+large scale variations, species presence f(environment), predicts community composition, spatial heterogeneity, consequences for species evolution (at the single species scale)
+
 ## Coevolution: 
+
+TP -- feedbacks between species traits and interactions: is essentially an evolution of constraints on species distribution
 
 # The current overlap
 
 ## The good: biogeographic perspectives on coevolution
 
+TP -- GMTC, Nuismer models
+
 ## The bad: understanding network variation over space
 
+DG/KC -- TTIB, beta
+
 ## The ugly: evolution of networks, evolution in networks
+
+TP -- Loeuille, web world
 
 # The road to synthesis
 
