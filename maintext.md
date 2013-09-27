@@ -1,4 +1,4 @@
-%
+% A trait-based framework for the dynamics of species interaction networks
 % T. Poisot, K. Cazelles, D. Gravel
 % DRAFT
 
@@ -38,6 +38,15 @@ well-articulated, and which are not.
 
 **Put forth a strong trait-based perspective**: env -> traits <-> coevo
 
+**Last paragraph**:   In this paper, we discuss aspects of ecological network
+theory, environmental and historical biogeography, and coevolution, that can be
+integrated in order to predict and descrive the dynamics of interaction
+networks. Interestingly, most of the groundwork is already present, and we call
+for a synthesis effort, aiming at the integration of disparate elements of
+theory, models, and data. We propose that future research on the dynamics of
+networks, be it temporal, spatial, or evolutionary, be guided by the role of
+species trait in determining the existence of interactions. 
+
 **Box:**: venn diagram   
 **Box:** case studies (if any)
 
@@ -65,6 +74,8 @@ D.J. Kev'
 large scale variations, species presence f(environment), predicts community composition, spatial heterogeneity, consequences for species evolution (at the single species scale)
 
 evolutionary/historical biogeography: Dom will do a synthesis of the TREE paper
+
+Discuss Pillai, Gonzalez & Loreau: interactions constrain co-distribution
 
 ## Coevolution: 
 
