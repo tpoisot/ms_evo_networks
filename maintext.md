@@ -95,6 +95,15 @@ perspective), and (ii) the covariance between interaction outcome and
 trait distribution will drive the evolution of the trait in one or both species
 [@gomulkiewicz_dos_2007].
 
+%TODO review examples
+
+Although the notion that traits drive the existence and strength of species
+interactions in networks, there has been extremely few studies that attempted
+to understand the consequences of network structure on trait distribution in
+the different species. As we discuss in a later section, this is in part
+because most studies focused on understanding how network structure emerged
+from evolutionary processes and trait distribution, without going full circle.
+
 # The current overlap
 
 ## The good: biogeographic perspectives on coevolution
@@ -108,6 +117,8 @@ DG/KC -- TTIB, beta
 ## The ugly: evolution of networks, evolution in networks
 
 TP -- Loeuille, web world, Cattin, Allesina
+
+discuss micro-evolution / macro-evolution (phylo Daniel, paleo Jenn, Roopnarine, taxo Allesina)
 
 # The road to synthesis
 
