@@ -81,6 +81,20 @@ Discuss Pillai, Gonzalez & Loreau: interactions constrain co-distribution
 
 TP -- feedbacks between species traits and interactions: is essentially an evolution of constraints on species distribution
 
+In its contemporary incarnation, coevolution studies the interactions between
+pairs of species composed of (potentially) genetically differentiated
+populations, which may be connected by gene-flow (dispersal). Theory
+surrounding coevolutions aims at finding mechanisms that links traits and their
+genetic architecture to the distribution of interaction outcomes
+[@thompson_raw_1999], so as to predict the impact of trait distribution on
+species interactions, and the impact of interactions on the evolution of trait
+distribution. Of particular interest to our goal is the central concept that
+(i) covariance in trait species will determine the distribution of interaction
+outcomes (that is the distribution of interaction strenght, in a network
+perspective), and (ii) the covariance between interaction outcome and
+trait distribution will drive the evolution of the trait in one or both species
+[@gomulkiewicz_dos_2007].
+
 # The current overlap
 
 ## The good: biogeographic perspectives on coevolution
@@ -116,3 +130,5 @@ Traits are the future, all hail the traits
 No grand theory of everything
 
 new family of questions vs. re-visiting standing questions
+
+# References
