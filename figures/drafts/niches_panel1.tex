@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage{tikz}
+\usepackage[default]{lato}
+\usetikzlibrary{shapes,arrows}
+\usepackage[pdftex,active,tightpage]{preview}
+
+\begin{document}
+\begin{preview}
+   \begin{tikzpicture}[>=triangle 60, shorten >=1pt]
+   %% Grinnelian niche
+   \draw (-2,0) -- (2,0) node(gri_x)[right] {};
+   \draw (0,-2) -- (0,2) node(gri_y)[above] {};
+   \draw (-0.03,0.02) node (gri_f)[ellipse, draw=blue!60, fill=none, minimum width=3.1cm, minimum height=2.6cm, rotate=20] {};
+   \draw (0.05, -0.1) node(gri_r)[ellipse, draw=none, fill=blue!60, minimum width=1.5cm, minimum height=2.3cm, rotate=-30] {};
+
+   %% Eltonian niche
+   \draw (8,0) -- (12,0) node(elt_x)[right] {};
+   \draw (10,-2) -- (10,2) node(elt_y)[above] {};
+   \draw (9.8, 0.2) node(elt_f)[ellipse, draw=orange!60, fill=none, minimum width=3.1cm, minimum height=2.6cm, rotate=-44] {};
+   \draw (10.1, -0.2) node(elt_r)[ellipse, draw=none, fill=orange!60, minimum width=1.5cm, minimum height=1.3cm, rotate=12] {};
+
+   %% Trait distribution
+   \draw (4,4) rectangle (4.5, 4.3) [fill=green!60, draw=none];
+   \draw (4.5,4) rectangle (5.0, 4.9) [fill=green!60, draw=none];
+   \draw (5,4) rectangle (5.5, 4.8) [fill=green!60, draw=none];
+   \draw (5.5,4) rectangle (6.0, 4.2) [fill=green!60, draw=none];
+   \draw (3.8,4) -- (6.2,4);
+   % Label
+   \draw (5.0, 3.75) node(tr_label) {\textbf{Trait distribution}};
+
+   %% Arrows
+   \draw (tr_label) edge [bend left, ->] (gri_f);
+   \draw (gri_f) edge [bend left, ->] (tr_label);
+
+   \end{tikzpicture}
+\end{preview}
+\end{document}
+
