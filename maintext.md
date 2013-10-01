@@ -36,8 +36,6 @@ well-articulated, and which are not.
 3. Accounting for micro-evolutionary changes is important to predict response to global changes as well
 4. The establishment of interactions relies on traits (mis)matching, so the consequences of biogeo/evo changes must be done in a trait-explicit framework
 
-**Put forth a strong trait-based perspective**: env -> traits <-> coevo
-
 **Last paragraph**:   In this paper, we discuss aspects of ecological network
 theory, environmental and historical biogeography, and coevolution, that can be
 integrated in order to predict and descrive the dynamics of interaction
