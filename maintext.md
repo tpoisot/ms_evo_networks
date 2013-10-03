@@ -1,4 +1,4 @@
-% A trait-based framework for the dynamics of species interaction networks
+% An evolutionary perspective on the biogeography of species interactions
 % T. Poisot, K. Cazelles, D. Gravel
 % DRAFT
 
@@ -100,7 +100,20 @@ interactions in networks, there has been extremely few studies that attempted
 to understand the consequences of network structure on trait distribution in
 the different species. As we discuss in a later section, this is in part
 because most studies focused on understanding how network structure emerged
-from evolutionary processes and trait distribution, without going full circle.
+from evolutionary processes and trait distribution, without going full circle
+to asking the question of how network structure drives coevolutionary dynamics.
+@yoder_when_2010 makes the proposition that the ability of coevolution to
+trigger an increase in diversity was contingent upon the type of ecological
+interactions, with mutualistic interactions generating the least diversity.
+However, it is worth noting that this model, as most empirical studies, focused
+on situations in which species richness is low, and it is therefore worth
+asking how the multiple interactions that a species establishes within
+a network represents different selection pressures and diversification
+opportunity. The idea that multi-species interactions affect both coevolutionar
+dynamics [@thrall_coevolution_2007] and the number of interaction partners
+[@poisot_conceptual_2011] has been well established in the recent years,
+offering the rationale and opportunity to further understand how network
+structure and coevolutionary dynamics interact.
 
 # The current overlap
 
