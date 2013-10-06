@@ -77,8 +77,6 @@ Discuss Pillai, Gonzalez & Loreau: interactions constrain co-distribution
 
 ## Coevolution: 
 
-TP -- feedbacks between species traits and interactions: is essentially an evolution of constraints on species distribution
-
 In its contemporary incarnation, coevolution studies the interactions between
 pairs of species composed of (potentially) genetically differentiated
 populations, which may be connected by gene-flow (dispersal). Theory
@@ -120,6 +118,13 @@ structure and coevolutionary dynamics interact.
 ## The good: biogeographic perspectives on coevolution
 
 TP -- GMTC, Nuismer models
+
+Since @thompson_geographic_2005 proposed the concept of a *geographic mosaic of
+selections*, that is the fact that selection varies across space as a function
+of local environmental conditions, the concepts of coevolution have been well
+understood in a spatial context. **REVIEW main concepts of GMTC**
+
+Emblematic systems: crossbills, yucca moth
 
 ## The bad: understanding network variation over space
 
