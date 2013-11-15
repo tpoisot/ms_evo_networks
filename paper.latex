@@ -5,12 +5,12 @@
 \usepackage{amsmath}
 \usepackage[english]{babel}
 \usepackage{geometry}
-\geometry{verbose,letterpaper,margin=2cm}
+\geometry{verbose,letterpaper,margin=2.2cm}
 
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 
-\usepackage{bera, berasans}
+\usepackage{kpfonts}
  
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{6pt plus 2pt minus 1pt}

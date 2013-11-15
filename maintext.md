@@ -134,6 +134,26 @@ DG/KC -- TTIB, beta
 
 TP -- Loeuille, web world, Cattin, Allesina
 
+Evolution *of* networks (as macro-ecological objects) and evolution *in*
+networks (as the consequences of species interactions on evolutionary dynamics)
+have been considered so far as distinct fields. Yet, as evolutionary changes
+in species through interactions within a network will also influence their
+distribution and trait values (**Figure 1a TODO**), it would make sense to
+understand how these two scales interact. Long-term evolutionary dynamics
+have been studied in a number of different ways, including looking for
+phylogenetic conservatism in species roles [@daniel] or interactions
+[@allesina]; comparing emergent properties of paleo-networks [@dunne;
+@roopnarine]; and more generally by studying the phylogenetic signal
+in species interactions [@various-refs]. On the other hand, short-terms
+evolutionary dynamics introduced by ecological dynamics have been studied
+in smaller community modules. A variety of models described, for example,
+co-evolutionary dynamics of antagonistic [@poisotProcsB] or mutualistic
+[@NuismerJordano] networks.
+
+-- models of network evolution: also disconnected
+
+-- nuismer and jordano
+
 discuss micro-evolution / macro-evolution (phylo Daniel, paleo Jenn, Roopnarine, taxo Allesina)
 
 # The road to synthesis

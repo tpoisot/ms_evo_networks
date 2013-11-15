@@ -10,4 +10,4 @@ $(pdf): $(md)
 	pandoc $(md) -o $(pdf) $(opts)
 
 view: $(pdf)
-	$(viewer) $(pdf)
+	$(viewer) $(pdf) &
